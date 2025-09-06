@@ -2,10 +2,8 @@
 <h3 align="center">An Engineering student from Maharashtra</h3>
 <h3> 🚀 About Me </h3>
 
-I am an Engineering student constantly exploring new technologies and using them to solve real-world problems.<br>
-Here is a bit more about me:
-
-🌱 Computer Science student
+An Undergraduate Artificial Intelligence and Data Science Student. ‎ ‎ ‎ ‎
+Software Engineer | AIML | Python | Java | Web Development.
 
 <h3> 💼 Programming Languages: </h3>
 
