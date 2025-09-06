@@ -3,6 +3,7 @@
 <h3> 🚀 About Me </h3>
 
 An Undergraduate Artificial Intelligence and Data Science Student.
+<br>
 Software Engineer | AIML | Python | Java | Web Development.
 
 <h3> 💼 Programming Languages: </h3>
