@@ -2,7 +2,7 @@
 <h3 align="center">An Engineering student from Maharashtra</h3>
 <h3> 🚀 About Me </h3>
 
-An Undergraduate Artificial Intelligence and Data Science Student. ‎ ‎ ‎ ‎
+An Undergraduate Artificial Intelligence and Data Science Student.
 Software Engineer | AIML | Python | Java | Web Development.
 
 <h3> 💼 Programming Languages: </h3>
